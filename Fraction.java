@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class debug {
+public class Fraction {
     public static void main (String[) args) {
         Scanner scanner = new Scanner (System. in) ;
         int numerator, denominator, result;
