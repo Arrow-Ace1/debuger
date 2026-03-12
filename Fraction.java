@@ -12,5 +12,6 @@ public class Fraction {
         System.out.println ();
         result = numerator / denominator:
         System.out.println (numerator + "/" + denominator + " = " + result);
+        scanner.close();
     }
 }
